@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Modak</h1>
-<h3 align="center">A passionate Performance Test Engineer from India. Keep Learning.</h3>
+<h3 align="center">A passionate Performance Test Engineer from India. Learning everyday.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hash0307&label=Profile%20views&color=0e75b6&style=flat" alt="hash0307" /> </p>
 
@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/harsh0307" target="blank"><img src="https://img.shields.io/twitter/follow/harsh0307?logo=twitter&style=for-the-badge" alt="harsh0307" /></a> </p>
 
-- 🔭 I’m currently working on **Jmeter, Dynatrace, Cloud platforms - AWS, Azure**
+- 🔭 I’m currently working on **using Generative AI to automate daily tasks and optimizing application performance.**
 
 - 🌱 I’m currently learning **Python, Generative AI.**
 
-- 👯 I’m looking to collaborate on **Python Development Projects.**
+- 👯 I’m looking to collaborate on **Performance Engineering, Chaos Engineering & Python Development Projects.**
+
+- 🔭 Skills **Jmeter, Dynatrace, LoadRunner, Kubernetes, Openshift, Cloud platforms - AWS, Azure.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hash0307](https://github.com/hash0307)
 
@@ -21,7 +23,7 @@
 
 - 📄 To know about my experiences, check out my LinkedIn [www.linkedin.com/in/harshmodak](www.linkedin.com/in/harshmodak)
 
-- ⚡ Fun fact **I am sports enthusiast - Cricket, Football (Manchester Utd). I watch a lot of movies. Trying to develop habit of reading books.**
+- ⚡ Fun fact **I am sports enthusiast - Cricket, Football (Manchester Utd). I watch a lot of movies(like a lot of them). Trying to develop habit of reading books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
