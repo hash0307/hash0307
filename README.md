@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Harsh Modak</h1>
 <h3 align="center">A passionate Performance Test Engineer from India. Keep Learning.</h3>
 
@@ -6,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hash0307" alt="hash0307" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hash0307" target="blank"><img src="https://img.shields.io/twitter/follow/hash0307?logo=twitter&style=for-the-badge" alt="hash0307" /></a> </p>
+<p align="left"> <a href="https://twitter.com/harsh0307" target="blank"><img src="https://img.shields.io/twitter/follow/harsh0307?logo=twitter&style=for-the-badge" alt="harsh0307" /></a> </p>
 
 - 🔭 I’m currently working on **Jmeter, Dynatrace, Cloud platforms - AWS, Azure**
 
@@ -22,11 +21,11 @@
 
 - 📄 To know about my experiences, check out my LinkedIn [www.linkedin.com/in/harshmodak](www.linkedin.com/in/harshmodak)
 
-- ⚡ Fun fact **I am sports enthusiast - Cricket, Football (Manchester Utd).**
+- ⚡ Fun fact **I am sports enthusiast - Cricket, Football (Manchester Utd). I watch a lot of movies. Trying to develop habit of reading books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hash0307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hash0307" height="30" width="40" /></a>
+<a href="https://twitter.com/harsh0307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh0307" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshmodak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshmodak" height="30" width="40" /></a>
 <a href="https://instagram.com/hash0307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hash0307" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hash0307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hash0307" height="30" width="40" /></a>
