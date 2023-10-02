@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Performance Engineering, Chaos Engineering & Python Development Projects.**
 
-- 🔭 Skills **Jmeter, Dynatrace, LoadRunner, Kubernetes, Openshift, Cloud platforms - AWS, Azure.**
+- 🔭 Skills **Performance Testing & Engineering, Jmeter, Dynatrace, LoadRunner, Chaos Engineering, Kubernetes, Openshift, Cloud platforms - AWS, Azure.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hash0307](https://github.com/hash0307)
 
@@ -23,7 +23,7 @@
 
 - 📄 To know about my experiences, check out my LinkedIn [www.linkedin.com/in/harshmodak](www.linkedin.com/in/harshmodak)
 
-- ⚡ Fun fact **I am sports enthusiast - Cricket, Football (Manchester Utd). I watch a lot of movies(like a lot of them). Trying to develop habit of reading books.**
+- ⚡ Fun fact **When I'm not tuning applications for peak performance, I am hanging out with my family, friends. I am a sports enthusiast. I thrive on the adrenaline rush of the game, whether its scoring a goal on the field, knocking the bails of the stumps, enjoying couple of games online or watching my favourite team play.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
